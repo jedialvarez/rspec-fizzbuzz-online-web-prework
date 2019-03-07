@@ -1,10 +1,10 @@
 def fizzbuzz(int)
-  if (int % 3) == 0) && (int % 5 == 0))
-    "FizzBuzz"# if the number int is divisable by 3
-  elsif (int % 3) == 0
-    "Fizz"
-elsif (int % 5) == 0)
-    "fizzbuzz"
+  if (int % 3) == 0)
+    "Fizz"# if the number int is divisable by 3
+  elsif (int % 5) == 0)
+    "Buzz"
+  elsif (int % 15) == 0
+    "FizzBuzz"
   else
   end
 end
