@@ -3,8 +3,6 @@ def fizzbuzz(int)
     "Fizz"# if the number int is divisable by 3
   elsif (int % 5) == 0)
     "Buzz"
-  elsif (int % 15) == 0)
-    "FizzBuzz"
 elsif (fizzbuzz(4)
   end
 end
