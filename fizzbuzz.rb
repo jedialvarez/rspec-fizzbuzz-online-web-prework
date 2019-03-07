@@ -3,7 +3,8 @@ def fizzbuzz(int)
     "Fizz"
   end
   if int % 5 == 0
-    "Fizzbuzz" # Go fizz
+    "Fizzbuzz"
+  end # Go fizz
 end
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
