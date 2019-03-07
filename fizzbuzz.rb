@@ -1,6 +1,5 @@
 def fizzbuzz(int)
-  if int % 3 == 0 # if the number int is divisable by 3
-    "Fizz"
+  if int % 3 == "Fizz"# if the number int is divisable by 3
   end
   if int % 5 == 0
     "Buzz"
