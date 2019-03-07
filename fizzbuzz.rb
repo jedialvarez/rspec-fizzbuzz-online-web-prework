@@ -5,6 +5,7 @@ def fizzbuzz(int)
     "Buzz"
   elsif (int % 15) == 0)
     "FizzBuzz"
+elsif (fizzbuzz(4)
   end
 end
 
