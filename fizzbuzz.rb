@@ -2,10 +2,10 @@ def fizzbuzz(int)
   if int % 3 == 0
     "Fizz"# if the number int is divisable by 3
   end
-else int % 5 == 0
+  elsif int % 5 == 0
     "Buzz"
   end
-   int % 15 == 0
+elsif int % 15 == 0
     "Fizzbuzz"
   end
    int % 4
