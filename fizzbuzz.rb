@@ -3,7 +3,6 @@ def fizzbuzz(int)
     "Fizz"# if the number int is divisable by 3
   elsif (int % 5) == 0)
     "Buzz"
-elsif (fizzbuzz(4)
   end
 end
 
