@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-  if ((int % 3 = 0) && (int % 5 = 0))
+  if ((int % 3 == 0) && (int % 5 == 0))
         "Fizz"# if the number int is divisable by 3
   elsif (int % 5 = 0)
     "Buzz"
