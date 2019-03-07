@@ -1,7 +1,7 @@
 def fizzbuzz(int)
   if int % 3 == 0 # if the number int is divisable by 3
     "Fizz" # Go fizz
-end 
+end
   if int % 5 == 0
     "Buzz"
   end
