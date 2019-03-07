@@ -1,4 +1,4 @@
-def fizzbuzz
+def fizzbuzz(fizz_3 = fizzbuzz(3))
 
 end
 # Don't forget! This file needs to be 'required' in its spec file
